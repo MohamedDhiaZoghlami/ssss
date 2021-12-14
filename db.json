@@ -1,0 +1,131 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Food",
+      "ref": "#222",
+      "quantity": 259
+    },
+    {
+      "id": 2,
+      "name": "Tools",
+      "ref": "#228",
+      "quantity": 300
+    },
+    {
+      "id": 3,
+      "name": "Electronics",
+      "ref": "#33",
+      "quantity": 154
+    },
+    {
+      "id": 4,
+      "name": "Health",
+      "ref": "#456",
+      "quantity": 122
+    },
+    {
+      "id": 5,
+      "name": "Music",
+      "ref": "#rrr",
+      "quantity": 456
+    },
+    {
+      "id": 6,
+      "name": "Clothing",
+      "ref": "#aaa",
+      "quantity": 789
+    },
+    {
+      "id": 7,
+      "name": "Kids",
+      "ref": "#456",
+      "quantity": 123
+    },
+    {
+      "name": "Garden",
+      "ref": "#789",
+      "quantity": 123,
+      "id": 8
+    },
+    {
+      "name": "Shoes",
+      "ref": "#123",
+      "quantity": 522,
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Longos - Assorted Sandwich",
+      "price": "998.78",
+      "category": "Shoes",
+      "promo": 0.5
+    },
+    {
+      "id": 2,
+      "name": "Longos - Assorted Sandwich",
+      "price": "998.78",
+      "category": "Shoes",
+      "promo": 0.4
+    },
+    {
+      "id": 3,
+      "name": "hello",
+      "price": "500",
+      "category": "Tools",
+      "promo": 0.2
+    }
+  ],
+  "users": [
+    {
+      "firstname": "oussema",
+      "lastname": "selmi",
+      "username": "oussemaselmi",
+      "birthdate": "2021-12-14",
+      "email": "oussema.selmi@esprit.tn",
+      "password": "raed1234",
+      "confpass": "raed1234",
+      "categorieclient": "FIDELE",
+      "isAdmin": false,
+      "id": "6CEaNI_"
+    },
+    {
+      "firstname": "salim",
+      "lastname": "berima",
+      "username": "salimberima",
+      "birthdate": "2021-12-06",
+      "email": "salim.berima@esprit.tn",
+      "password": "raed1234",
+      "confpass": "raed1234",
+      "categorieclient": "ORDINAIRE",
+      "isAdmin": false,
+      "id": "54baoK8"
+    },
+    {
+      "firstname": "raed",
+      "lastname": "jaidi",
+      "username": "raedjaidi",
+      "birthdate": "2021-12-07",
+      "email": "raed.jaidi@esprit.tn",
+      "password": "raed1234",
+      "confpass": "raed1234",
+      "categorieclient": "PREMUIM",
+      "isAdmin": true,
+      "id": "MVKvDGr"
+    },
+    {
+      "firstname": "salim",
+      "lastname": "berima",
+      "username": "salimberima",
+      "birthdate": "2021-12-09",
+      "email": "salim.berima@esprit.tn",
+      "password": "raed1234",
+      "confpass": "raed1234",
+      "isAdmin": false,
+      "id": "r7BtMf6",
+      "categorieclient": "FIDELE"
+    }
+  ]
+}
